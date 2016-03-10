@@ -3,6 +3,8 @@
 ### Introduction
 Lightweight PyQt Weather App based on Weather Underground API. **Requires API key!**
 
+![screenshot](doc/weather.png)
+
 The main application window has no frame, like a splash screen. 
 It closes on any key press other than left/right arrows, and on mouse clicks outside of the window.
 Finally, it will close itself after 60s of no keybord activity.
