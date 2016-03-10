@@ -35,7 +35,7 @@ Can be integrated with [CommandRunner](https://cinnamon-spices.linuxmint.com/app
 
 ![applet](doc/panel.png)
 
-The script provides short updates to CommandRunner to be showed on a panel. It also provides a click action so that clicking on the applet opens the application window.
+The script provides short updates to CommandRunner to be showed on a panel (current weather, and the next few hours). It also provides a click action so that clicking on the applet opens the application window.
 
 Add the following as the command:
 
