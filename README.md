@@ -33,6 +33,8 @@ Any query accepted by Weather Underground API should work. For example:
 ### Linux Mint Cinnamon integration
 Can be integrated with [CommandRunner](https://cinnamon-spices.linuxmint.com/applets/view/226) to create a nice weather applet. 
 
+![applet](doc/panel.png)
+
 The script provides short updates to CommandRunner to be showed on a panel. It also provides a click action so that clicking on the applet opens the application window.
 
 Add the following as the command:
